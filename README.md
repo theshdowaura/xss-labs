@@ -27,5 +27,5 @@ docker run -d --name xss-labs -p 51142:80 shadowaura/xss-labs
 ## 直接使用远程运行
 
 ```shell
-docker run -d --name xss-labs -p 51142:80 shaodowaura/xss-labs:latest
+docker run -d --name xss-labs -p 51142:80 shadowaura/xss-labs:latest
 ```
