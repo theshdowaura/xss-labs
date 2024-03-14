@@ -1,4 +1,17 @@
 ## 快速搭建教程
+
+使用git克隆本项目
+
+```shell
+git clone --depth=1 https://github.com/theshdowaura/xss-labs.git
+```
+
+切换到项目目录
+
+```shell
+cd xss-labs
+```
+
 使用docker制作镜像
 
 ```shell
